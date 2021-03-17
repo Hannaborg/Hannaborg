@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hanna</h1>
-<h3 align="center">A passionate frontend developer from Norway 🇳🇴</h3>
+<h3 align="center">A passionate front-end developer from Norway 🇳🇴</h3>
 
 - 🔭 I’m currently working on [SmartFoods](https://www.smartfoods.cyou/)
 
 - 🌱 I’m currently learning **JavaScript and React**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Ruby and Ruby on Rails,**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Ruby and Ruby on Rails**
 
 - 📫 How to reach me **hanna.r.borg@gmail.com**
 
