@@ -2,9 +2,13 @@
 <h3 align="center">A passionate front-end developer from Norway 🇳🇴</h3>
 
 - 🔭 I’m currently working on [SmartFoods](https://www.smartfoods.cyou/)
+
 - 💻 I’m currently learning **JavaScript** and **React**
+
 - 💬 Ask me about **HTML, CSS, Bootstrap, Ruby** and **Ruby on Rails**
+
 - 📫 How to reach me: **hanna.r.borg@gmail.com**
+
 - ⚡ Fun fact: **I used to own a vegan restaurant**
 
 <h3 align="left">Connect with me:</h3>
